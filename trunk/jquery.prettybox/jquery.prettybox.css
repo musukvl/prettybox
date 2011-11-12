@@ -1,0 +1,153 @@
+﻿.prettybox 
+{
+}
+.prettybox-wrapper
+{
+    display:inline-block;
+}
+.prettybox 
+.prettybox-content 
+{
+}  
+
+.prettybox .prettybox-content 
+.prettybox-title
+{
+    margin: 4px;
+    padding: 2px;
+    text-align: center;
+}
+
+.prettybox .prettybox-content 
+.items-box
+{
+    padding: 4px 4px 4px 4px;
+}
+
+.prettybox
+.box_empty_message
+{
+    margin: 4px 0px 6px 0px;
+    vertical-align:middle;
+    text-align:center;
+}
+
+.prettybox
+.prettybox-item
+{
+    cursor:pointer;
+    margin-bottom:4px;
+    padding: 0px 0px 1px 0px;
+    white-space: nowrap;
+}
+
+.prettybox .prettybox-item
+.item-name
+{
+    float: left;
+    padding-left: 3px;
+    padding-right: 5px;
+    white-space:nowrap;
+}
+
+.prettybox .items-box .prettybox-item
+.item-icon
+{
+    margin-top:1px;
+    float: right;
+}
+
+.prettybox 
+.prettybox-footer {
+    position: relative;
+    padding: 0 4px 4px 4px;
+}
+
+.prettybox .prettybox-footer .prettybox-select-button
+.ui-button-text {
+    padding: 0 2.1em 0 1em;
+}
+
+.prettybox
+.item-on
+{
+
+    display:block;
+}
+
+.prettybox
+.item-off 
+{
+    display:none;
+}
+
+
+/*--------------------------------------------------------------*/
+.prettybox-dropdown
+{
+    position:absolute;
+    z-index: 2;
+}
+
+.prettybox-dropdown
+.items-box
+{
+    padding: 6px;
+}
+
+.prettybox-dropdown
+.dropdown-empty-message 
+{
+    vertical-align:middle;
+    text-align:center;    
+}
+
+.prettybox-dropdown
+.item-on
+{
+    display: inline-block;
+}
+
+.prettybox-dropdown
+.item-off 
+{
+    display:none;
+}
+
+.prettybox-dropdown
+.prettybox-item
+{
+    cursor:pointer;
+    margin-bottom:4px;
+    padding: 0px 0px 1px 0px;
+    white-space: nowrap;
+    width:100%;
+}
+
+.prettybox-dropdown .prettybox-item
+ul
+{
+  
+}
+
+.prettybox-dropdown .prettybox-item
+.item-name
+{
+    padding-left: 3px;
+    padding-right: 5px;
+    white-space:nowrap;
+    display:inline-block;
+    float:left;
+}
+
+.prettybox-dropdown .items-box .prettybox-item
+.item-icon
+{
+    margin-top:1px;
+    display:inline-block;
+    float:right;
+}
+
+
+/*-------------------------------------------------------------*/
+
